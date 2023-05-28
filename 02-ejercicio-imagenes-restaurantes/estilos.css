@@ -1,0 +1,22 @@
+body{
+    background-color: #289688;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    border: solid 10px whitesmoke;
+    margin: 3px;
+}
+
+h1{
+    color: yellow;
+    text-align: center;
+    font-size: 50px;
+}
+
+.imagenes-hoteles{
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
