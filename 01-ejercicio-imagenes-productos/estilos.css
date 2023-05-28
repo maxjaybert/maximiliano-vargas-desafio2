@@ -1,0 +1,89 @@
+
+/* Falta: Sombra interna de bordes en imagenes | Primera letra mas grande | Interlineado */
+
+body{
+    background-color:#273238;
+    }
+
+p{
+    color: #B7CDD7;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    }
+
+h1{
+   color: #698593; 
+   background-color: aliceblue;
+   font-weight: 500;
+   font-family: Impact, Charcoal, sans-serif;
+   text-align: center;
+   font-size: 50px;
+}
+
+h2{
+    font-family: Arial, Gadget, sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 25px;
+        
+}
+
+h2::first-letter{
+    font-size: 30px;
+}
+
+img{
+    margin-left:50px;
+}
+
+
+#aspiradoras{  
+    color: #E6CBBF;
+    }
+
+    .img1{  
+    border: solid 5px #E6CBBF;
+    padding: 1px 0px 0px 1px;
+    
+    }
+
+    
+#celulares{
+    color: #A1C1CB;
+}
+
+.img2{
+    border: solid 5px #A1C1CB ;
+    padding: 0px 0px 1px 1px;
+    }
+
+
+#consolas{
+    color: #BCBDBF;
+}
+
+.img3{
+    border: solid 5px #BCBDBF;
+    padding: 1px 0px 1px 1px;
+    }
+
+
+#hometheaters{
+    color: #8D94A1;
+
+}
+
+.img4{
+    border: solid 5px #8D94A1;
+    padding: 1px 0px 0px 1px;
+    }
+
+
+#televisores{
+    color: #B2B2AA;
+    }
+
+ .img5{
+        border: solid 5px #B2B2AA;
+        padding: 0px 0px 1px 1px;
+    
+    }
