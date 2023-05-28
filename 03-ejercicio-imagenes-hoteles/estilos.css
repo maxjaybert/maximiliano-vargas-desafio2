@@ -1,0 +1,47 @@
+
+/* Espaciado H1 y H2, Posicion de imagenes, Posicion imagen encabezado */
+
+body{
+    background-color: #FFFFFF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h1, h2 {
+
+    color: #BB5397;
+    letter-spacing: 10px;
+}
+
+p{
+    color: #566FAE;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 100;
+}
+
+
+.imagen-encabezado{
+    width: 30%;
+    display: block;
+    margin: auto;
+}
+
+.imagen-final{
+    width: 100%;
+}
+
+.img-1{
+    margin: 5px;
+    float: right;
+}
+
+.img-2{
+    margin: 5px;
+    float: left;
+}
+
+
